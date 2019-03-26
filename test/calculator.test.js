@@ -32,7 +32,7 @@ test('divisiblyBy 10 / 2 to equal true', () => {
 });
 
 test ('Squared number', () => {
-  expect (calculator.square(2)).toBe(4)
+  expect (calculator.square(2)).toBe(1)
 }
 )
 

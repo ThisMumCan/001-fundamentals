@@ -33,7 +33,7 @@ function divisibleBy (a, b) {
     
 }
 function square (a, b){
-    return a*a == b;
+    return b/b === a;
 }
 
 module.exports = {
